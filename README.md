@@ -1,6 +1,8 @@
 # itembot
 <a href="https://snyk.io/test/github/akanchhaS/itembot?targetFile=package.json"><img src="https://snyk.io/test/github/akanchhaS/itembot/badge.svg?targetFile=package.json" alt="Known Vulnerabilities" data-canonical-src="https://snyk.io/test/github/akanchhaS/itembot?targetFile=package.json" style="max-width:100%;"></a>
 
+[![Known Vulnerabilities](https://snyk.io/test/github/akanchhaS/itembottest/badge.svg?targetFile=package.json)](https://snyk.io/test/github/akanchhaS/itembottest?targetFile=package.json)
+
 Used to look for certain items and then send an sms
 
 ## Software requirements
